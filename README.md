@@ -36,3 +36,21 @@ According to ChatGPT:
 + The system shoud work with AA or 9 V Battery
 + The system should be cost-effective
 + The interface should be intuitive, requiring minimal instructions for operation.
+
+# Development Process
+![development process](./pictures/Vorgehen.png)
++ Project definition process
+  - product idea
+  - problem definition
+  - specification and specification list
++ Project planing and definition
+  - structure of the development 
+  - resources
+  - personnel capacities 
+  - testing and production facilities 
+  - time and budget
++ conception process 
+  - several solution concepts at a fundamental level 
+  - their characteristics
+  - the most suitable concept is selected for further processing
++ Design process
