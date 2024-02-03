@@ -38,6 +38,7 @@ According to ChatGPT:
 + The interface should be intuitive, requiring minimal instructions for operation.
 
 # Development Process
+#development-process
 ![development process](./pictures/Vorgehen.png)
 + Project definition process
   - product idea
@@ -53,4 +54,21 @@ According to ChatGPT:
   - several solution concepts at a fundamental level 
   - their characteristics
   - the most suitable concept is selected for further processing
-+ Design process
++ Elaboration process
+  - a fine-tuned definition of the components from the conception phase. 
+    * the final geometry
+    * surface
+    * tolerance and others production specifications.
+  - the creation of parts lists for material products 
+
+The execution of each stage can be performed in a gate process, where each stage of the development process is completed by milestones or so-called **gates**. Through the gate review we check the achieved results after a stage and decide to go to the next stage (Go) or to rework the current stage (No Go).
+
+Some characteristics of the gate process: 
+* Reduction of production errors.
+* The gate review allows the contribution of cross-functional disciplines.
+* Enables teamwork and parallel processes 
+* A common platform for all participants throughout the project
+* The method used to complete a stage is flexible and, above all, cross-functional.
+
+The folowing pictures shows how the gate process looks like: 
+![Gate process](./Research/pictures/gate_process.png)

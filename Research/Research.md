@@ -3,7 +3,7 @@ Link: https://blog.hubspot.com/marketing/product-development-process
 
 According to the New Development Process, the stage after idea generation is " Research ". This stage consists of several steps such as market research or competitor analysis. In my perception, there are two goals here: 
 + Find similar products 
-+ To find new ideas that can improve the idea generation.
++ Find new ideas that can improve the idea generation.
 
 Keywords: 
 + Synonyms for the words "Phone" 
